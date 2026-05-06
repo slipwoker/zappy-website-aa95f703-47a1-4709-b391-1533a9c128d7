@@ -2,13 +2,13 @@
 
 A beginner drums course designed for students starting from age 7, offering a structured 10-lesson curriculum. The course emphasizes personal accompaniment and support throughout the entire learning journey, making it accessible and encouraging for young and new learners. The focus is on building a solid foundation in drumming with a nurturing, guided approach.
 
-Source: https://-aa95f703.zappy5.app
+Source: https://example.com
 
 ---
 
 ## חינוך מוזיקלי — קורס לימוד תופים למתחילים - אור יונתן
 
-URL: https://-aa95f703.zappy5.app
+URL: https://example.com
 Description: A beginner drums course designed for students starting from age 7, offering a structured 10-lesson curriculum. The course emphasizes personal accompaniment and 
 
 חינוך מוזיקלי — קורס לימוד תופים למתחילים - אור יונתן
@@ -867,7 +867,7 @@ Description: A beginner drums course designed for students starting from age 7, 
 
 ## מדיניות פרטיות
 
-URL: https://-aa95f703.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1116,7 +1116,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-aa95f703.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1374,7 +1374,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-aa95f703.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
