@@ -2,13 +2,13 @@
 
 A beginner drums course designed for students starting from age 7, offering a structured 10-lesson curriculum. The course emphasizes personal accompaniment and support throughout the entire learning journey, making it accessible and encouraging for young and new learners. The focus is on building a solid foundation in drumming with a nurturing, guided approach.
 
-Source: https://example.com
+Source: https://kurs-limud-tupim-lamatchilim-o.zappy5.app
 
 ---
 
 ## חינוך מוזיקלי — קורס לימוד תופים למתחילים - אור יונתן
 
-URL: https://example.com
+URL: https://kurs-limud-tupim-lamatchilim-o.zappy5.app
 Description: A beginner drums course designed for students starting from age 7, offering a structured 10-lesson curriculum. The course emphasizes personal accompaniment and 
 
 חינוך מוזיקלי — קורס לימוד תופים למתחילים - אור יונתן
@@ -864,7 +864,7 @@ Description: A beginner drums course designed for students starting from age 7, 
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://kurs-limud-tupim-lamatchilim-o.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1113,7 +1113,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://kurs-limud-tupim-lamatchilim-o.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1371,7 +1371,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://kurs-limud-tupim-lamatchilim-o.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
