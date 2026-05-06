@@ -1,0 +1,67 @@
+# קורס לימוד תופים למתחילים - אור יונתן — Generative Engine Optimization Map
+
+> A beginner drums course designed for students starting from age 7, offering a structured 10-lesson curriculum. The course emphasizes personal accompaniment and support throughout the entire learning journey, making it accessible and encouraging for young and new learners. The focus is on building a solid foundation in drumming with a nurturing, guided approach.
+
+---
+
+## Pages
+
+### בית
+https://-aa95f703.zappy5.app
+A beginner drums course designed for students starting from age 7, offering a structured 10-lesson curriculum. The course emphasizes personal accompaniment and 
+
+## Legal & Policy
+
+### Privacy Policy
+https://-aa95f703.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-aa95f703.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-aa95f703.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-aa95f703.zappy5.app
+- Endpoint: https://-aa95f703.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קורס לימוד תופים למתחילים - אור יונתן
+A beginner drums course designed for students starting from age 7, offering a structured 10-lesson curriculum. The course emphasizes personal accompaniment and support throughout the entire learning journey, making it accessible and encouraging for young and new learners. The focus is on building a solid foundation in drumming with a nurturing, guided approach.
+
+## Target Audience
+- מתחילים מגיל 7 ומעלה
+- מתחילים בלמידת תופים
+- הורים לילדים מתחילים
+- נערים חובבי מוזיקה
+
+## Industry
+חינוך מוזיקלי
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-aa95f703.zappy5.app/sitemap.xml
+- Robots: https://-aa95f703.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-aa95f703.zappy5.app/llms-full.txt
